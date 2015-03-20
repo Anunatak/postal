@@ -36,5 +36,5 @@ Usage
 
 Really just one simple function:
 
-	$place = Postal::getPlace('6300'); // returns string: 'Åndalsnes'
+	$place = Postal::getPlace('6300'); // returns string: 'Åndalsnes' 
 

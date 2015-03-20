@@ -1,6 +1,7 @@
 {
     "name": "anunatak/postal",
     "description": "",
+    "keywords": ["posten", "laravel", "postal", "place"],
     "authors": [
         {
             "name": "Anunatak",
