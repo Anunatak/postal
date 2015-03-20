@@ -21,7 +21,8 @@ class PostalServiceProvider extends ServiceProvider {
 	 * @return void
 	 */
 	public function register()
-	{
+	{	
+		// artisan commands
 		$this->commands($this->commands);
 	}
 
