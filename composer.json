@@ -1,0 +1,21 @@
+{
+    "name": "anunatak/postal",
+    "description": "",
+    "authors": [
+        {
+            "name": "Anunatak",
+            "email": "web@anunatak.no"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*",
+        "parsecsv/php-parsecsv": "0.4.5"
+    },
+    "autoload": {
+        "psr-0": {
+            "Anunatak\\Postal": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
